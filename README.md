@@ -1,5 +1,9 @@
-# Basecamp is deprecated now. And only for archival purposes. If you want to take over this project contact me at: mls@ct.de
-# There are a lot of alternatives for the ESP32 by now that also work with the ESP8266
+# This Basecamp is no longer deprecated.
+# It is working with  Arduino Json 6
+
+The added example Doorsign is working with a run length compression and much more efficient
+Further it contains a Brownout-Detection and some better Failure-Handling in case of connection is not ready
+If you are looking fpr alternatives, as c't is recommending - look here:
 
 Here are alternatives that are in active development:
 
